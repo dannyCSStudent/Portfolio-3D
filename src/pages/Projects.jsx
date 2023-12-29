@@ -11,16 +11,14 @@ const Projects = () => {
         My <span className='blue-gradient_text font-semibold drop-shadow'>Projects</span>
       </h1>
       <div className='mt-5 flex flex-col gap-3 text-slate-500'>
-        <p>I have emabarked on numerous projects throughtout the years,
-          but these are the ones I hold closest to my heart. Many of 
-          them are open-source, so if you come across something that 
-          piques your interest, fell free to explore the codebase and
-          contribute your ideas for further enhancements. 
-          Your collaboration is highly valued! 
+        <p>As your dedicated Full Stack Developer, I'm thrilled to share a glimpse 
+          into my portfolio, highlighting projects that embody innovation, 
+          functionality, and a touch of brilliance. Here are a few of my most 
+          cherished creations that I'm eager to showcase: 
         </p>
       </div>
       <div className='flex flex-wrap my-20 gap-16'>
-        {projects.map((project) => (
+        {/* {projects.map((project) => (
           <div className='lg:w-[400px] w-full' key={project.name}> 
             <div className='block-container w-12 h-12'>
               <div className={`btn-back rounded-xl ${project.theme}`} />
@@ -58,7 +56,7 @@ const Projects = () => {
             </div>
             
           </div>
-        ))}
+        ))} */}
 
       </div>
       <hr className='border-slate-200'/>

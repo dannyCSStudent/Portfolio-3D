@@ -9,36 +9,40 @@ const About = () => {
       </h1>
       <div className='mt-5 flex flex-col gap-3 text-slate-500'>
         <p>
-          Full Stack Developer specializing in creating seamless digital 
-          solutions. 🌐 With a strong foundation in JavaScript and TypeScript, 
-          I take pride in building robust ecommerce webshops featuring sleek 
-          admin dashboards and content management systems (CMS). 💻
+          Full Stack Developer specializing in crafting high-performance 
+          websites and social media applications using the MERN stack and the 
+          versatile Appwrite platform.
+
+
         </p>
         <p>
-          🛠️ Leveraging the power of Next.js, Stripe for secure transactions, 
-          and Payload CMS for efficient content management, I bring your online 
-          store to life with cutting-edge technology. 
+          🌟 With expertise in MongoDB, Express.js, React, and Node.js, I bring your 
+          visions to life by creating seamless, responsive, and feature-rich web 
+          applications. From dynamic user interfaces to a robust backend, your project 
+          is in good hands.
         </p>
         <p>
-          From crafting custom landing pages to developing bespoke websites, 
-          I thrive on turning ideas into visually appealing and functionally rich 
-          digital experiences.
+          🔐 Seeking a secure and scalable solution? Look no further! I integrate 
+          Appwrite, an open-source platform, seamlessly blending authentication, 
+          databases, functions, and storage to ensure your project is not just 
+          feature-packed but also highly secure.
         </p>
         <p>
-          💡 My passion lies in marrying technology with design to deliver not just
-          websites but immersive online journeys. Whether you're looking for a 
-          powerful ecommerce solution or a captivating landing page, I've got you 
-          covered.
+          🛒 Say goodbye to the hassle of juggling Shopify and a CMS. I will 
+          build you a webshop in Payload CMS – a fully open-source, TypeScript-driven 
+          Content Management System. Through Payload + Stripe integration, I deliver a 
+          captivating and functional front-end, complete with a user-friendly 
+          shopping cart, seamless checkout processes, order management, and more.
         </p>
         <p>
-          Let's connect and discuss how my skills can elevate your online presence 
-          and contribute to your digital success. I'm always excited about new 
-          challenges and collaboration opportunities. Feel free to reach out—I'm 
-          here to transform your digital vision into reality! 
+          🌐 Let's Build Your Vision Together! Whether you're dreaming of a social 
+          media powerhouse or a streamlined e-commerce empire, I'm ready to turn your 
+          ideas into reality. Take the next step towards digital success – choose 
+          innovation, choose reliability, choose me!
         </p>
         <p>
           💬🔧 #FullStackDeveloper #NextJS #TypeScript #Stripe #PayloadCMS 
-          #WebDevelopment #EcommerceExpert
+          #WebDevelopment #Appwrite
         </p>
         
       </div>
@@ -60,15 +64,6 @@ const About = () => {
 
         </div>
       </div>
-      {/* <div className='py-16'>
-        <h3 className='subhead-text'>Work Experience</h3>
-        <div className='mt-5 flex flex-col gap-3 text-slate-500'>
-          <p>I've worked with all sorts of companies, leveling up my skills and teaming up with smart people. Here's the rundown:</p>
-        </div>
-      <div className='mt-12 flex'>
-
-      </div>
-      </div> */}
     </section>
   )
 }
