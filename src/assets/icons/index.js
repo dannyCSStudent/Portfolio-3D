@@ -18,7 +18,7 @@ import linkedin from './linkedin.svg'
 import twitter from './twitter.svg'
 import car from './car.svg'
 import estate from './estate.svg'
-import pricewise from './pricewise.svg'
+import galleryra from './gallerya.png'
 import snapgram from './snapgram.svg'
 import summiz from './summiz.svg'
 import threads from './threads.svg'
@@ -48,7 +48,7 @@ export {
     twitter,
     car,
     estate,
-    pricewise,
+    galleryra,
     snapgram,
     summiz,
     threads,
