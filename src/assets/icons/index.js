@@ -19,7 +19,7 @@ import twitter from './twitter.svg'
 import car from './car.svg'
 import estate from './estate.svg'
 import galleryra from './gallerya.png'
-import snapgram from './snapgram.svg'
+import myface from './myface.png'
 import summiz from './summiz.svg'
 import threads from './threads.svg'
 import arrow from './arrow.svg'
@@ -49,7 +49,7 @@ export {
     car,
     estate,
     galleryra,
-    snapgram,
+    myface,
     summiz,
     threads,
     arrow,

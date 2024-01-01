@@ -19,7 +19,7 @@ import {
     react,
     redux,
     sass,
-    snapgram,
+    myface,
     summiz,
     tailwindcss,
     threads,
@@ -190,6 +190,13 @@ export const projects = [
         description: 'An event organization web app like Eventbrite or Meetup with authentication, event management, search, filtering, categories, checkout, and payments using Next JS 14, Tailwind CSS, Shadcn, React Hook Form, Zod, Uploadthing, React-Datepicker, Mongoose, Clerk, and Stripe.',
         link: 'https://gallerya-64b696w7t-dannycsstudent.vercel.app/',
     },
+    {
+        iconUrl: myface,
+        theme: 'btn-back-pink',
+        name: 'Full Stack Instagram Clone',
+        description: 'Built a complete clone of Instagram, allowing users to share photos and connect with friends in a familiar social media environment.',
+        link: 'https://myface-chysng9kj-dannycsstudent.vercel.app/',
+    },
     // {
     //     iconUrl: threads,
     //     theme: 'btn-back-green',
@@ -204,13 +211,7 @@ export const projects = [
     //     description: 'A modern social app with a stunning UI with a native mobile feel, a special tech stack, an infinite scroll feature, and amazing performance using React JS, Appwrite, TypeScript, and more.',
     //     link: 'https://github.com/adrianhajdin/project_next13_car_showcase',
     // },
-    // {
-    //     iconUrl: snapgram,
-    //     theme: 'btn-back-pink',
-    //     name: 'Full Stack Instagram Clone',
-    //     description: 'Built a complete clone of Instagram, allowing users to share photos and connect with friends in a familiar social media environment.',
-    //     link: 'https://github.com/adrianhajdin/social_media_app',
-    // },
+   
     // {
     //     iconUrl: estate,
     //     theme: 'btn-back-black',
