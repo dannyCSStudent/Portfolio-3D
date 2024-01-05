@@ -195,7 +195,7 @@ export const projects = [
         theme: 'btn-back-pink',
         name: 'Full Stack Instagram Clone',
         description: 'Built a complete clone of Instagram, allowing users to share photos and connect with friends in a familiar social media environment.',
-        link: 'https://myface-chysng9kj-dannycsstudent.vercel.app/',
+        link: 'https://myface-c66k82rb6-dannycsstudent.vercel.app/',
     },
     // {
     //     iconUrl: threads,
