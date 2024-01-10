@@ -17,7 +17,7 @@ import typescript from './typescript.svg'
 import linkedin from './linkedin.svg'
 import twitter from './twitter.svg'
 import car from './car.svg'
-import estate from './estate.svg'
+import nike from './nike.ico'
 import galleryra from './gallerya.png'
 import myface from './myface.png'
 import summiz from './summiz.svg'
@@ -47,7 +47,7 @@ export {
     linkedin,
     twitter,
     car,
-    estate,
+    nike,
     galleryra,
     myface,
     summiz,
