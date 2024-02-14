@@ -16,7 +16,8 @@ import tailwindcss from './tailwindcss.svg'
 import typescript from './typescript.svg'
 import linkedin from './linkedin.svg'
 import twitter from './twitter.svg'
-import car from './car.svg'
+import team from './team.ico'
+import carebnb from './carebnb.ico'
 import nike from './nike.ico'
 import galleryra from './gallerya.png'
 import myface from './myface.png'
@@ -39,6 +40,7 @@ export {
     mui,
     nextjs,
     nodejs,
+    carebnb,
     react,
     redux,
     sass,
@@ -46,7 +48,7 @@ export {
     typescript,
     linkedin,
     twitter,
-    car,
+    team,
     nike,
     galleryra,
     myface,

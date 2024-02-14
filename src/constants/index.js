@@ -1,6 +1,7 @@
 import { meta, shopify, starbucks, tesla } from "../assets/images";
 import {
-    car,
+    team,
+    carebnb,
     contact,
     css,
     nike,
@@ -204,21 +205,21 @@ export const projects = [
         description: 'Experience seamless web design with my project showcasing a dynamic product landing page. Crafted using ReactJS and Tailwind CSS, it boasts a sleek navigation bar, captivating hero section, popular products display, enticing special offers, genuine testimonials, a newsletter subscription feature, and a social media-linked footer. Developed with Vite or Next.js for optimal performance and user engagement.',
         link: 'https://dannycsstudent.github.io/nike/',
     },
-    // {
-    //     iconUrl: car,
-    //     theme: 'btn-back-blue',
-    //     name: 'Social media app',
-    //     description: 'A modern social app with a stunning UI with a native mobile feel, a special tech stack, an infinite scroll feature, and amazing performance using React JS, Appwrite, TypeScript, and more.',
-    //     link: 'https://github.com/adrianhajdin/project_next13_car_showcase',
-    // },
+    {
+        iconUrl: team,
+        theme: 'btn-back-blue',
+        name: 'Real Time Figma Clone',
+        description: 'A minimalistic Figma clone to show how to add real-world features like live collaboration with cursor chat, comments, reactions, and drawing designs (shapes, image uploads) on the canvas using fabric.js',
+        link: 'https://team-designer-hjbrr2wyr-dannycsstudent.vercel.app/',
+    },
    
-    // {
-    //     iconUrl: estate,
-    //     theme: 'btn-back-black',
-    //     name: 'Real-Estate Application',
-    //     description: 'Developed a web application for real estate listings, facilitating property searches and connecting buyers with sellers.',
-    //     link: 'https://github.com/adrianhajdin/projects_realestate',
-    // },
+    {
+        iconUrl: carebnb,
+        theme: 'btn-back-black',
+        name: 'Fullstack Airbnb Clone',
+        description: 'Fullstack Airbnb Clone with Next.js, App Router: React, tailwind, Prisma, MongoDB, NextAuth 2023',
+        link: 'https://carebnb-dannycsstudent.vercel.app/',
+    },
     // {
     //     iconUrl: summiz,
     //     theme: 'btn-back-yellow',
