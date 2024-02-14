@@ -21,7 +21,7 @@ import {
     redux,
     sass,
     myface,
-    summiz,
+    youTube,
     tailwindcss,
     threads,
     typescript
@@ -187,7 +187,7 @@ export const projects = [
     {
         iconUrl: galleryra,
         theme: 'btn-back-red',
-        name: 'Event Manager',
+        name: 'Gallerya',
         description: 'An event organization web app like Eventbrite or Meetup with authentication, event management, search, filtering, categories, checkout, and payments using Next JS 14, Tailwind CSS, Shadcn, React Hook Form, Zod, Uploadthing, React-Datepicker, Mongoose, Clerk, and Stripe.',
         link: 'https://gallerya-64b696w7t-dannycsstudent.vercel.app/',
     },
@@ -217,14 +217,14 @@ export const projects = [
         iconUrl: carebnb,
         theme: 'btn-back-black',
         name: 'Fullstack Airbnb Clone',
-        description: 'Fullstack Airbnb Clone with Next.js, App Router: React, tailwind, Prisma, MongoDB, NextAuth 2023',
+        description: 'Fullstack Airbnb Clone with Next.js, App Router: React, tailwind, Prisma, MongoDB, NextAuth 2023.',
         link: 'https://carebnb-dannycsstudent.vercel.app/',
     },
-    // {
-    //     iconUrl: summiz,
-    //     theme: 'btn-back-yellow',
-    //     name: 'AI Summarizer Application',
-    //     description: 'App that leverages AI to automatically generate concise & informative summaries from lengthy text content, or blogs.',
-    //     link: 'https://github.com/adrianhajdin/project_ai_summarizer',
-    // }
+    {
+        iconUrl: youTube,
+        theme: 'btn-back-yellow',
+        name: 'YouTube Clone',
+        description: 'A YouTube clone built with RapidAPI, React.js, and Material UI! This dynamic platform boasts an array of features including customizable categories, immersive video sections, and personalized channel pages. Users can seamlessly navigate through a diverse range of content, tailored to their interests. With sleek design elements and intuitive functionality, this clone offers a familiar yet refreshing experience for both creators and viewers alike. ',
+        link: 'https://dannycsstudent.github.io/youtube-clone/',
+    }
 ];

@@ -21,7 +21,7 @@ import carebnb from './carebnb.ico'
 import nike from './nike.ico'
 import galleryra from './gallerya.png'
 import myface from './myface.png'
-import summiz from './summiz.svg'
+import youTube from './youTube.svg'
 import threads from './threads.svg'
 import arrow from './arrow.svg'
 import contact from './contact.svg'
@@ -52,7 +52,7 @@ export {
     nike,
     galleryra,
     myface,
-    summiz,
+    youTube,
     threads,
     arrow,
     contact,
