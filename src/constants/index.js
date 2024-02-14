@@ -226,5 +226,12 @@ export const projects = [
         name: 'YouTube Clone',
         description: 'A YouTube clone built with RapidAPI, React.js, and Material UI! This dynamic platform boasts an array of features including customizable categories, immersive video sections, and personalized channel pages. Users can seamlessly navigate through a diverse range of content, tailored to their interests. With sleek design elements and intuitive functionality, this clone offers a familiar yet refreshing experience for both creators and viewers alike. ',
         link: 'https://dannycsstudent.github.io/youtube-clone/',
+    },
+    {
+        iconUrl: threads,
+        theme: 'btn-back-black',
+        name: 'Threads Clone',
+        description: '',
+        link: 'https://threads-clone-lg9rz89x2-dannycsstudent.vercel.app/',
     }
 ];
