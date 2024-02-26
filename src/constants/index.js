@@ -24,6 +24,7 @@ import {
     youTube,
     tailwindcss,
     threads,
+    creatify,
     typescript
 } from "../assets/icons";
 
@@ -194,21 +195,21 @@ export const projects = [
     {
         iconUrl: myface,
         theme: 'btn-back-pink',
-        name: 'Full Stack Instagram Clone',
-        description: 'Built a complete clone of Instagram, allowing users to share photos and connect with friends in a familiar social media environment using React JS, Appwrite, Tailwindcss, React Query, and Shadcn.',
+        name: 'MyFace',
+        description: 'A complete clone of Instagram, allowing users to share photos and connect with friends in a familiar social media environment using React JS, Appwrite, Tailwindcss, React Query, and Shadcn.',
         link: 'https://myface-c66k82rb6-dannycsstudent.vercel.app/',
     },
     {
         iconUrl: nike,
         theme: 'btn-back-green',
         name: 'Product Landing Page',
-        description: 'Experience seamless web design with my project showcasing a dynamic product landing page. Crafted using ReactJS and Tailwind CSS, it boasts a sleek navigation bar, captivating hero section, popular products display, enticing special offers, genuine testimonials, a newsletter subscription feature, and a social media-linked footer. Developed with Vite or Next.js for optimal performance and user engagement.',
+        description: 'A dynamic product landing page. Crafted using ReactJS and Tailwind CSS, it boasts a sleek navigation bar, captivating hero section, popular products display, enticing special offers, genuine testimonials, a newsletter subscription feature, and a social media-linked footer. Developed with Vite or Next.js for optimal performance and user engagement.',
         link: 'https://dannycsstudent.github.io/nike/',
     },
     {
         iconUrl: team,
         theme: 'btn-back-blue',
-        name: 'Real Time Figma Clone',
+        name: 'Team Designer',
         description: 'A minimalistic Figma clone to show how to add real-world features like live collaboration with cursor chat, comments, reactions, and drawing designs (shapes, image uploads) on the canvas using fabric.js',
         link: 'https://team-designer-hjbrr2wyr-dannycsstudent.vercel.app/',
     },
@@ -216,8 +217,8 @@ export const projects = [
     {
         iconUrl: carebnb,
         theme: 'btn-back-black',
-        name: 'Fullstack Airbnb Clone',
-        description: 'Fullstack Airbnb Clone with Next.js, App Router: React, tailwind, Prisma, MongoDB, NextAuth 2023.',
+        name: 'Carebnb',
+        description: 'A full stack Airbnb Clone with Next.js, App Router: React, tailwind, Prisma, MongoDB, NextAuth 2023.',
         link: 'https://carebnb-dannycsstudent.vercel.app/',
     },
     {
@@ -229,9 +230,16 @@ export const projects = [
     },
     {
         iconUrl: threads,
-        theme: 'btn-back-black',
+        theme: 'btn-back-pink',
         name: 'Threads Clone',
-        description: '',
+        description: 'A full stack Threads clone using Next.js 14+ with a redesigned look transformed from a Figma design, user interaction to community management, technical implementation, and various features, including nested deep comments, notifications, real-time-search, and more.',
         link: 'https://threads-clone-lg9rz89x2-dannycsstudent.vercel.app/',
+    },
+    {
+        iconUrl: creatify,
+        theme: 'btn-back-blue',
+        name: 'Creatify',
+        description: 'An AI image SaaS platform that excels in image processing capabilities, integrates a secure payment infrastructure, offers advanced image search functionalities, and supports multiple AI features, including image restoration, recoloring, object removal, generative filling, and background removal. ',
+        link: 'https://create-me-alpha.vercel.app/',
     }
 ];
